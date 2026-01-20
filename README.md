@@ -56,10 +56,9 @@ The focus of the modeling stage is on understanding performance and behavior rat
 
 ##  Results
 
-* The trained model demonstrates reasonable predictive performance on unseen data
 * Feature analysis highlights health indicators such as **BMI and age** as important factors associated with diabetes risk
-<img width="461" height="393" alt="image" src="https://github.com/user-attachments/assets/2c14f6aa-43b2-419a-a1ed-305226b0434a" />
-<img width="461" height="393" alt="image" src="https://github.com/user-attachments/assets/404b0351-22e4-45ce-b415-2368d602ba09" />
+* The Logistic Regression model achieved an accuracy of ~89% on the test set. Due to class imbalance in the dataset, performance was primarily evaluated using ROC-AUC, achieving a score of 0.96, indicating strong discriminative capability.
+* The model demonstrated a high recall (~89%) for diabetic cases, prioritizing correct identification of positive cases, which is particularly important in healthcare-related prediction tasks.
 
 
 
