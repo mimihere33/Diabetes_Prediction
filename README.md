@@ -58,8 +58,10 @@ The focus of the modeling stage is on understanding performance and behavior rat
 
 * The trained model demonstrates reasonable predictive performance on unseen data
 * Feature analysis highlights health indicators such as **BMI and age** as important factors associated with diabetes risk
+<img width="461" height="393" alt="image" src="https://github.com/user-attachments/assets/2c14f6aa-43b2-419a-a1ed-305226b0434a" />
+<img width="461" height="393" alt="image" src="https://github.com/user-attachments/assets/404b0351-22e4-45ce-b415-2368d602ba09" />
 
-*(Exact metrics can be added here if required)*
+
 
 ---
 
